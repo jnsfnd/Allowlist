@@ -1,1 +1,12 @@
+# ╔══════════════════════════════════════════╗
+# ║        AdGuard Home - Allowlist          ║
+# ║        Freund-Solutions Homelab          ║
+# ╚══════════════════════════════════════════╝
 
+# ── Xbox Live ──────────────────────────────
+# Xbox Live Achievements & Verbindung
+@@||v10.events.data.microsoft.com^
+@@||v20.events.data.microsoft.com^
+
+# Windows Spotlight / Xbox GamePass Images
+@@||arc.msn.com^
