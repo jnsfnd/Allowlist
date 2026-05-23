@@ -25,3 +25,8 @@
 @@||*.xboxlive.com^
 @@||*.xboxservices.com^
 @@||*.xbox.com^
+
+# ── Xbox Assets / CDN ───────────────────────
+@@||assets.xboxservices.com^
+@@||cms-assets.xboxservices.com^
+@@||assets-xbxweb.xbox.com^
