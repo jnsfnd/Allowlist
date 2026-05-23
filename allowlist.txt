@@ -10,3 +10,18 @@
 
 # Windows Spotlight / Xbox GamePass Images
 @@||arc.msn.com^
+
+# ── Xbox Auth ──────────────────────────────
+@@||user.auth.xboxlive.com^
+@@||xsts.auth.xboxlive.com^
+@@||title.auth.xboxlive.com^
+@@||login.live.com^
+@@||login.microsoftonline.com^
+@@||account.microsoft.com^
+@@||clientconfig.passport.net^
+
+# ── Xbox Services ───────────────────────────
+@@||xboxlive.com^
+@@||*.xboxlive.com^
+@@||*.xboxservices.com^
+@@||*.xbox.com^
