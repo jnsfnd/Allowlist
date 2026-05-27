@@ -37,3 +37,6 @@
 @@||www.google-analytics.com^
 @@||analyticsmobile-pa.googleapis.com
 @@||app-analytics-services.com
+
+# ── Apple XProtect ───────────────────────
+@@||xp.apple.com
