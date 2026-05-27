@@ -30,3 +30,8 @@
 @@||assets.xboxservices.com^
 @@||cms-assets.xboxservices.com^
 @@||assets-xbxweb.xbox.com^
+
+# ── Google Analytics ───────────────────────
+@@||analytics.google.com^
+@@||google-analytics.com^
+@@||www.google-analytics.com^
