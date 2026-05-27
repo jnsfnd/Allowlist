@@ -35,3 +35,5 @@
 @@||analytics.google.com^
 @@||google-analytics.com^
 @@||www.google-analytics.com^
+@@||analyticsmobile-pa.googleapis.com
+@@||app-analytics-services.com
