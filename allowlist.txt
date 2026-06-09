@@ -40,3 +40,6 @@
 
 # ── Apple XProtect ───────────────────────
 @@||xp.apple.com
+
+# ── Social Blade ───────────────────────
+@@||socialblade.com
